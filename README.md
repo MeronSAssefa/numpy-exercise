@@ -1,2 +1,2 @@
-# numpy-exercise
-lumpy exercises for this week 
+numpy exercise 
+numpy exercises for this week 
